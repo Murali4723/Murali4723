@@ -13,7 +13,7 @@
 - 🎓 B.Tech in Computer Science and Engineering  
 - 📊 Passionate about data, visualization, and real-world insights  
 - 🤖 Building ML, NLP, and EDA projects  
-- 🌱 Currently learning deep learning and deployment
+- 🌱 Currently exploring deep learning and end-to-end deployments
 
 ---
 
@@ -25,6 +25,8 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FFC107?style=for-the-badge&logo=tensorflow&logoColor=black" />
+  <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logo=spacy&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
@@ -33,22 +35,22 @@
 
 ### 📌 Featured Projects
 - 🍎 **Apple Quality Prediction** – Classifies apple quality using ML.
-- 💬 **Finance Sentiment Analysis** – NLP to detect sentiment in financial texts.
-- 🛍️ **E-commerce Platform** – Built with MERN stack.
-- 📊 **EDA Dashboards** – Created multiple Power BI dashboards from raw data.
+- 💬 **Finance Sentiment Analysis** – NLP-based sentiment classifier for finance text.
+- 🛍️ **E-commerce Platform** – MERN stack project for online shopping.
+- 📊 **EDA Dashboards** – Power BI dashboards from raw datasets.
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Murali4723&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murali4723&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
 ### 📫 Let's Connect
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 📧 Email: muraliganeshseeram4723@gmail.com  
+- 💼 LinkedIn: [Murali Ganesh Seeram]((https://www.linkedin.com/in/seeram-murali-ganesh-9a6b62258/))  
+
