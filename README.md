@@ -35,7 +35,6 @@
 ### 📌 Featured Projects
 - 🍎 **Apple Quality Prediction** – Classifies apple quality using ML.
 - 💬 **Finance Sentiment Analysis** – NLP-based sentiment classifier for finance text.
-- 🛍️ **E-commerce Platform** – MERN stack project for online shopping.
 - 📊 **EDA Dashboards** – Power BI dashboards from raw datasets.
 
 ---
